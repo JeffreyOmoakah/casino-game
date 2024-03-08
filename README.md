@@ -37,8 +37,8 @@ Ensure you have Python installed on your system. This project is compatible with
 Run the main script:
 - main.py
 
-## Contributors
+## Contributors:
 This project was built by Jeffrey Omoakah as a beginner to intermediate Python project to improve programming skills and have fun.
 
-## Feedback and Contributions
+## Feedback and Contributions:
 If you have any feedback, suggestions, or would like to contribute to the project, feel free to open an issue or submit a pull request on GitHub.
