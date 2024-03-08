@@ -27,16 +27,18 @@ Getting Started
 To get started with the Casino Game Python project, follow these steps:
 
 Clone the repository to your local machine:
-
-git clone (https://github.com/JeffreyOmoakah/casino-game.git)
+- git clone (https://github.com/JeffreyOmoakah/casino-game.git)
 
 Navigate to the project directory:
-
-cd casino-game
+- cd casino-game
 
 Ensure you have Python installed on your system. This project is compatible with Python 3.
 
-
 Run the main script:
+- main.py
 
-main.py
+## Contributors
+This project was built by Jeffrey Omoakah as a beginner to intermediate Python project to improve programming skills and have fun.
+
+## Feedback and Contributions
+If you have any feedback, suggestions, or would like to contribute to the project, feel free to open an issue or submit a pull request on GitHub.
