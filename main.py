@@ -14,13 +14,6 @@ symbol_count = {
     "D": 8
 }
 
-symbol_value = {
-    "A": 2,
-    "B": 6,
-    "G": 4,
-    "D": 8
-}
-
 def get_slot_machine_spin(rows, cols, symbols):
     all_symbols = []
     for symbol, symbol_count in symbols.items():
